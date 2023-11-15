@@ -2,17 +2,17 @@
   "twrp_url": "git://github.com/minimal-manifest-twrp/platform_manifest_twrp_omni.git",
   "twrp_branch": "twrp-8.1",
   "git_username": "voipsy",
-  "git_email": "37921907+voipsy@users.noreply.github.com",
+  "git_email": "110681302+B5-Software@users.noreply.github.com",
   "use_own_dt": true,
-  "dt_url": "azwhikaru/twrp_device_xiaomi_babel",
+  "dt_url": "chyinan/android-device-KONKA-U17",
   "dt_branch": "main",
   "dt_remote": "github",
-  "dt_path": "device/xiaomi/Babel",
-  "device_code": "Babel",
+  "dt_path": "device/konka/u17",
+  "device_code": "KONKA U17",
   "use_omin_head": true,
   "use_repair_manifest": false,
   "fix_product": false,
   "fix_misscom": false,
   "fix_busybox": false,
-  "fix_branch": "android-10.0"
+  "fix_branch": "twrp-8.1"
 }
